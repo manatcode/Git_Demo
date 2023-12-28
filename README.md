@@ -1,3 +1,3 @@
 # Git_Demo
-Understanding Git
+Understanding Git : 
 Author - Manish  
